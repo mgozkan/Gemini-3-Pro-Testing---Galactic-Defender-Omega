@@ -5,6 +5,16 @@
 
 **Galactic Defender: Omega** is a modern, high-octane space shooter that reimagines the classic arcade experience for the modern web. Featuring neon-soaked visuals, a pumping synth-style audio system (generated in real-time!), and intense wave-based combat.
 
+## 📸 Screenshots & Gameplay
+
+![Gameplay Video](ScreenShots/ss_video0.gif)
+
+| Action | Boss Fight |
+| :---: | :---: |
+| ![Action](ScreenShots/ss_1.png) | ![Boss](ScreenShots/ss_2.png) |
+| **Victory** | **Menu** |
+| ![Victory](ScreenShots/ss_3.png) | |
+
 ## 🎮 Gameplay Features
 
 *   **Intense Space Combat**: Battle against waves of alien invaders with smooth, physics-based movement.
