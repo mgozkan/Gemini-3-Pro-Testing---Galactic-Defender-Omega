@@ -13,7 +13,7 @@
 | :---: | :---: |
 | ![Action](ScreenShots/ss_1.png) | ![Boss](ScreenShots/ss_2.png) |
 | **Victory** | **Menu** |
-| ![Victory](ScreenShots/ss_3.png) | |
+| ![Victory](ScreenShots/ss_3.png) | ![Menu](ScreenShots/ss_menu.png) |
 
 ## 🎮 Gameplay Features
 
